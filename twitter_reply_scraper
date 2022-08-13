@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+This is the slightly modified / debugged code from https://gist.github.com/nirholas ! THX dude! 
 # 
 
 import csv
